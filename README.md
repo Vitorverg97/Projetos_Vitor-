@@ -1,7 +1,9 @@
 # Projetos_Vitor-
 
-1- Criação do Sistema de atendimento de saúde.js
+1- Sistema de atendimento de saúde.js
 
-2- Criação da calculadora de média.js
+2- calculadora de média.js
 
-## Em construção constante
+3- Contador de vogais.js
+
+## Em constante construção...
