@@ -9,7 +9,7 @@ Use um loop para iterar sobre cada caractere da string.
 Utilize um array ou string para armazenar as vogais.
 
 ## Exemplo de Uso:
-```.js
+```javascript
 console.log(contarVogais("Hello World")); // Saída: 3
 console.log(contarVogais("JavaScript é divertido")); // Saída: 8
 console.log(contarVogais("")); // Saída: 0
