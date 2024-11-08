@@ -16,4 +16,4 @@ function contagem(frase) {
     return contador; // Retorna o total de vogais encontradas
 }
 
-console.log(contagem.sort("Como contar vogais de uma oração?")); // Saída: 14
+console.log(contagem("Como contar vogais de uma oração?")); // Saída: 14
